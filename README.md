@@ -2,7 +2,7 @@
 
 ## 📋 Assignment Overview
 
-This repository contains a Java implementation of Shamir's Secret Sharing algorithm for the Catalog Placements Assignment. The solution finds the constant term 'c' of a polynomial using Lagrange interpolation with base-encoded input values.
+This repository contains a Java implementation of Shamir's Secret Sharing algorithm for the Assignment. The solution finds the constant term 'c' of a polynomial using Lagrange interpolation with base-encoded input values.
 
 ## 🎯 Problem Statement
 
