@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  nuclear-code-recovery:
+    build: .
+    container_name: nuclear-code-recovery
+    image: nuclear-code-recovery:latest
+    restart: unless-stopped
+    # Uncomment the following lines if you want to add environment variables
+    # environment:
+    #   - JAVA_OPTS=-Xmx512m
+    # volumes:
+    #   - ./logs:/app/logs 
